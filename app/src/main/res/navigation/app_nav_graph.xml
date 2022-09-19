@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/app_nav_graph"
+    app:startDestination="@id/splash_nav_graph">
+
+    <include app:graph="@navigation/home_navigation" />
+    <include app:graph="@navigation/favorites_navigation" />
+    <include app:graph="@navigation/settings_navigation" />
+    <include app:graph="@navigation/login_navigation" />
+    <include app:graph="@navigation/signup_navigation" />
+    <include app:graph="@navigation/splash_navigation" />
+
+</navigation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="build-logic.convention" target="11" />
+      <module name="build-logic.convention.main" target="11" />
+      <module name="build-logic.convention.test" target="11" />
+      <module name="secondhand.app" target="11" />
+      <module name="secondhand.core.common" target="11" />
+      <module name="secondhand.core.data" target="11" />
+      <module name="secondhand.core.datastore" target="11" />
+      <module name="secondhand.core.navigation" target="11" />
+      <module name="secondhand.core.network" target="11" />
+      <module name="secondhand.core.ui" target="11" />
+      <module name="secondhand.feature.favorites" target="11" />
+      <module name="secondhand.feature.home" target="11" />
+      <module name="secondhand.feature.login" target="11" />
+      <module name="secondhand.feature.settings" target="11" />
+      <module name="secondhand.feature.signup" target="11" />
+      <module name="secondhand.feature.splash" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

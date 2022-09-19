@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/signup_nav_graph"
+    app:startDestination="@id/navigation_signup">
+
+    <fragment
+        android:id="@+id/navigation_signup"
+        android:name="bluevelvet.app.feature.signup.SignupFragment"
+        android:label="Signup"
+        tools:layout="@layout/fragment_signup" />
+</navigation>
